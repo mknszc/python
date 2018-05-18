@@ -3,7 +3,6 @@ class HarfSayacı:
         self.sesli_harfler = 'aeıioöuüAEIİOÖUÜ'
         self.sessiz_harfler = 'bcçdfgğhjklmnprsştvyzBCÇDFGĞHJKLMNPRSŞTVYZ'
         self.bosluk_karekteri = ' '
-        
         self.sayaç_sesli = 0
         self.sayaç_sessiz = 0
         self.sayaç_bosluk = 0
