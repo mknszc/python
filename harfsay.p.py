@@ -39,5 +39,5 @@ class HarfSayaci:
         self.ekrana_bas()
 
 if __name__ == '__main__':
-    sayaç = HarfSayacı()
+    sayaç = HarfSayaci()
     sayaç.calistir() 
