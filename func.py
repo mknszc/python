@@ -1,3 +1,3 @@
 def selamla():
-    print("Elveda Zalim Dünya!")
+    print("Merhaba!")
 selamla() 
