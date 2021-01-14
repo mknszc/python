@@ -25,18 +25,15 @@ def money_text_to_number(str):
     }
 
     hundred = {
-        'yüz' : 100,
-        'yuz' : 100
+        'yüz' : 100
     }
 
     thousand = {
-        'bin' : 1000,
-        'bın' : 1000
+        'bin' : 1000
     }
 
     million = {
-        'milyon' : 1000000,
-        'mılyon' : 1000000
+        'milyon' : 1000000
     }
 
     arr = str.lower()
